@@ -15,6 +15,13 @@ script as you like.
 If all you want to do is toot items from a list, you just need tootbot.py,
 toot_secrets.py, and words.txt. 
 
+# Depends on: pawopy #
+
+The python module pawopy is required for tooting. 
+
+If you would prefer to make a twitter bot, you can edit tootbot.py to use
+tweepy instead.
+
 # How to toot #
 
 1. Create a mastodon account for your bot (recommended: http://botsin.space )
